@@ -10,6 +10,7 @@ public class DataTypes {
        char letter ='x';
        float example=1.123f;
        double doubExample =1.2241;
+       
 
     }
 }

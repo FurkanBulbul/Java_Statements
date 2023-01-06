@@ -15,6 +15,7 @@ public class JavaOperators {
 
         System.out.println(nbrOne);
 
+        
     }
 
     public static void arithmeticOperator(){

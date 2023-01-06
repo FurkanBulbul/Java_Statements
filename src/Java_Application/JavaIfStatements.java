@@ -6,6 +6,7 @@ public class JavaIfStatements {
         ifExample();
         ifExample2();
         ifExample3();
+        
     }
 
     public static void ifExample() {
