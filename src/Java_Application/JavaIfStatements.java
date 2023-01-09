@@ -6,6 +6,7 @@ public class JavaIfStatements {
         ifExample();
         ifExample2();
         ifExample3();
+        
     }
 
     public static void ifExample() {
@@ -24,7 +25,6 @@ public class JavaIfStatements {
             System.out.println("Good morning");
         }
     }
-    
     public static void ifExample3() {
         int hour = 19;
         int midday = 12;
