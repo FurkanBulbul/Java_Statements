@@ -6,7 +6,6 @@ public class JavaMath {
         Random();
         Max();
         Min();
-        
     }
     public static void Random(){
         System.out.println(Math.random());
