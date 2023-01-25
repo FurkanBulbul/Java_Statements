@@ -20,7 +20,7 @@ public class JavaConstractor {
         this.nbrOfBedrooms = bedrooms;
 
     }
-
+    
     public int getWindows() {
         return nbrOfWindows;
     }
