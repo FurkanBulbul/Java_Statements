@@ -8,6 +8,7 @@ public class JavaOperators {
         relOperator();
         logical();
 
+        
     }
     public static void assignmentOperator(){
         int nbrOne;
@@ -17,7 +18,7 @@ public class JavaOperators {
 
     }
 
-    
+
     public static void arithmeticOperator(){
         int a =2;
         int b =4;
