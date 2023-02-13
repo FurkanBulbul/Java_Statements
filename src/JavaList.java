@@ -14,6 +14,7 @@ public class JavaList {
 
         for (int i=0; i<animals.size(); i++){
             System.out.println(animals.get(i));
+            
         }
 
     }
