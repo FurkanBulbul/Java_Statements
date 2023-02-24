@@ -14,6 +14,5 @@ public class ThreadOrdering extends Thread {
                     .start();
         }
 
-
     }
 }
