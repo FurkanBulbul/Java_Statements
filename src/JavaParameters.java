@@ -10,4 +10,5 @@ public class JavaParameters {
     public static void getName(String firstName, String lastName) {
         System.out.println("Hello my name is" + firstName + " " + lastName);
     }
+
 }
